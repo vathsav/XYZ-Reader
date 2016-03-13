@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- detail -->
+    <bool name="detail_is_card" tools:ignore="UnusedResources">true</bool>
+
+    <dimen name="detail_photo_height">600dp</dimen>
+    <dimen name="detail_card_top_margin" tools:ignore="UnusedResources">256dp</dimen>
+</resources>
